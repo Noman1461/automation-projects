@@ -1,0 +1,169 @@
+INFO:root:Starting Indeed scraper...
+ERROR:root:Scraping failed: name 'Service' is not defined
+INFO:root:Starting Indeed scraper...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Noman\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Scraping failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#jobsearch"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x116ba83+63395]
+	GetHandleVerifier [0x0x116bac4+63460]
+	(No symbol) [0x0xfb2113]
+	(No symbol) [0x0xffa85e]
+	(No symbol) [0x0xffabfb]
+	(No symbol) [0x0x1042f92]
+	(No symbol) [0x0x101f3f4]
+	(No symbol) [0x0x10407ba]
+	(No symbol) [0x0x101f1a6]
+	(No symbol) [0x0xfee7b2]
+	(No symbol) [0x0xfef654]
+	GetHandleVerifier [0x0x13e8883+2672035]
+	GetHandleVerifier [0x0x13e3cba+2652634]
+	GetHandleVerifier [0x0x1192bca+223466]
+	GetHandleVerifier [0x0x1182cb8+158168]
+	GetHandleVerifier [0x0x118978d+185517]
+	GetHandleVerifier [0x0x1173b78+96408]
+	GetHandleVerifier [0x0x1173d02+96802]
+	GetHandleVerifier [0x0x115e90a+9770]
+	BaseThreadInitThunk [0x0x76bb6839+25]
+	RtlGetFullPathName_UEx [0x0x77c9906f+1215]
+	RtlGetFullPathName_UEx [0x0x77c9903d+1165]
+
+INFO:root:Scraping completed successfully!
+INFO:root:Starting Indeed scraper...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Noman\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Scraping failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#jobsearch"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x127ba83+63395]
+	GetHandleVerifier [0x0x127bac4+63460]
+	(No symbol) [0x0x10c2113]
+	(No symbol) [0x0x110a85e]
+	(No symbol) [0x0x110abfb]
+	(No symbol) [0x0x1152f92]
+	(No symbol) [0x0x112f3f4]
+	(No symbol) [0x0x11507ba]
+	(No symbol) [0x0x112f1a6]
+	(No symbol) [0x0x10fe7b2]
+	(No symbol) [0x0x10ff654]
+	GetHandleVerifier [0x0x14f8883+2672035]
+	GetHandleVerifier [0x0x14f3cba+2652634]
+	GetHandleVerifier [0x0x12a2bca+223466]
+	GetHandleVerifier [0x0x1292cb8+158168]
+	GetHandleVerifier [0x0x129978d+185517]
+	GetHandleVerifier [0x0x1283b78+96408]
+	GetHandleVerifier [0x0x1283d02+96802]
+	GetHandleVerifier [0x0x126e90a+9770]
+	BaseThreadInitThunk [0x0x76bb6839+25]
+	RtlGetFullPathName_UEx [0x0x77c9906f+1215]
+	RtlGetFullPathName_UEx [0x0x77c9903d+1165]
+
+INFO:root:Scraping completed successfully!
+INFO:root:Starting Indeed scraper...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Noman\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Scraping failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#jobsearch"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x127ba83+63395]
+	GetHandleVerifier [0x0x127bac4+63460]
+	(No symbol) [0x0x10c2113]
+	(No symbol) [0x0x110a85e]
+	(No symbol) [0x0x110abfb]
+	(No symbol) [0x0x1152f92]
+	(No symbol) [0x0x112f3f4]
+	(No symbol) [0x0x11507ba]
+	(No symbol) [0x0x112f1a6]
+	(No symbol) [0x0x10fe7b2]
+	(No symbol) [0x0x10ff654]
+	GetHandleVerifier [0x0x14f8883+2672035]
+	GetHandleVerifier [0x0x14f3cba+2652634]
+	GetHandleVerifier [0x0x12a2bca+223466]
+	GetHandleVerifier [0x0x1292cb8+158168]
+	GetHandleVerifier [0x0x129978d+185517]
+	GetHandleVerifier [0x0x1283b78+96408]
+	GetHandleVerifier [0x0x1283d02+96802]
+	GetHandleVerifier [0x0x126e90a+9770]
+	BaseThreadInitThunk [0x0x76bb6839+25]
+	RtlGetFullPathName_UEx [0x0x77c9906f+1215]
+	RtlGetFullPathName_UEx [0x0x77c9903d+1165]
+
+INFO:root:Scraping completed successfully!
+INFO:root:Starting Indeed scraper...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:There is no [win64] chromedriver "139.0.7258.66" for browser google-chrome "139.0.7258" in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 139.0.7258.66 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chromedriver-win32.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\Noman\.wdm\drivers\chromedriver\win64\139.0.7258.66]
+ERROR:root:Scraping failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="q"]"}
+  (Session info: chrome=139.0.7258.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x10ffd23+62915]
+	GetHandleVerifier [0x0x10ffd64+62980]
+	(No symbol) [0x0xf33e13]
+	(No symbol) [0x0xf7c89e]
+	(No symbol) [0x0xf7cc3b]
+	(No symbol) [0x0xfc4ec2]
+	(No symbol) [0x0xfa1424]
+	(No symbol) [0x0xfc26ea]
+	(No symbol) [0x0xfa11d6]
+	(No symbol) [0x0xf70833]
+	(No symbol) [0x0xf716a4]
+	GetHandleVerifier [0x0x1368d13+2590131]
+	GetHandleVerifier [0x0x1363f5a+2570234]
+	GetHandleVerifier [0x0x11259da+217722]
+	GetHandleVerifier [0x0x1116048+153832]
+	GetHandleVerifier [0x0x111c4ad+179533]
+	GetHandleVerifier [0x0x1107728+94152]
+	GetHandleVerifier [0x0x11078b2+94546]
+	GetHandleVerifier [0x0x10f2bca+9322]
+	BaseThreadInitThunk [0x0x76bb6839+25]
+	RtlGetFullPathName_UEx [0x0x77c9906f+1215]
+	RtlGetFullPathName_UEx [0x0x77c9903d+1165]
+
+INFO:root:Scraping completed successfully!
+INFO:root:Starting Indeed scraper...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Noman\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Scraping failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button#jobsearch"}
+  (Session info: chrome=139.0.7258.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x10ffd23+62915]
+	GetHandleVerifier [0x0x10ffd64+62980]
+	(No symbol) [0x0xf33e13]
+	(No symbol) [0x0xf7c89e]
+	(No symbol) [0x0xf7cc3b]
+	(No symbol) [0x0xfc4ec2]
+	(No symbol) [0x0xfa1424]
+	(No symbol) [0x0xfc26ea]
+	(No symbol) [0x0xfa11d6]
+	(No symbol) [0x0xf70833]
+	(No symbol) [0x0xf716a4]
+	GetHandleVerifier [0x0x1368d13+2590131]
+	GetHandleVerifier [0x0x1363f5a+2570234]
+	GetHandleVerifier [0x0x11259da+217722]
+	GetHandleVerifier [0x0x1116048+153832]
+	GetHandleVerifier [0x0x111c4ad+179533]
+	GetHandleVerifier [0x0x1107728+94152]
+	GetHandleVerifier [0x0x11078b2+94546]
+	GetHandleVerifier [0x0x10f2bca+9322]
+	BaseThreadInitThunk [0x0x76bb6839+25]
+	RtlGetFullPathName_UEx [0x0x77c9906f+1215]
+	RtlGetFullPathName_UEx [0x0x77c9903d+1165]
+
+INFO:root:Scraping completed successfully!
