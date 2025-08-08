@@ -9,9 +9,9 @@ This repository contains a collection of Python-based automation projects that s
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| Job Scraper  | Automated job listings scraper with CSV export | [View](./job_scraper) |
-| Pdf merger | Merge multiple pdf into singe | [View](./pdf_merger) |
-| Website Summarizer | Summarize an website article| [View](./website_summarizer) |
+| Job Scraper  | Automated tool that scrapes job listings from websites and exports the data to CSV format. | [View](./job_scraper) |
+| Pdf merger | Utility to combine multiple PDF files into a single, organized document.| [View](./pdf_merger) |
+| Website Summarizer | 	Extracts and generates concise summaries from online articles for quick reading.| [View](./website_summarizer) |
 
 ---
 
